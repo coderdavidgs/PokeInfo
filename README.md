@@ -1,5 +1,5 @@
 <h1>
-    David Santos - <a href="https://github.com/coderdavidgs"> 
+    David Santos - <a href="https://github.com/coderdavidgs"> <br />
         <img src="https://github.com/coderdavidgs.png" alt="Profile" />
      </a>
 </h1>
